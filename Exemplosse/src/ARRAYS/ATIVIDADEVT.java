@@ -1,6 +1,6 @@
 package ARRAYS;
 
-public class atividade
+public class atividade{
 
 
 import java.util.Scanner;
@@ -33,3 +33,4 @@ import java.util.Scanner;
         System.out.printf("A maior pontuação é %d", maiorPontuacao);//usual  linguagem C
 
     }
+
